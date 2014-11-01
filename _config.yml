@@ -1,0 +1,50 @@
+permalink: /:title/
+markdown: redcarpet
+redcarpet:
+  extensions: ['smart', 'superscript']
+gems:
+  - jekyll-redirect-from
+exclude: [vendor]
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      lang: english
+      layout: default
+  -
+    scope:
+      path: _posts/komi
+    values:
+      lang: коми
+nav:
+  english:
+    logo:
+      title: "Iźva Komi Documentation"
+      url:   "/"
+    journal:
+      title: "blog"
+      url:   "/index.html"
+    about:
+      title: "project"
+      url:   "/about/"
+  коми:
+    logo:
+      title: "Изьва кыы документачия"
+      url:   "/блог/"
+    journal:
+      title: "блог"
+      url:   "/блог/"
+    about:
+      title: "проект"
+      url:   "/йылысь/"
+t:
+  english:
+    created: "Published on the"
+    author: "by"
+    description: "Website for a language documentation project…"
+  коми:
+    created: "Лэдзӧма"
+    author: ", дасьтысь"
+    description: "Туялӧм проектлӧн сайтыс…"
