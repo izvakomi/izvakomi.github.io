@@ -5,7 +5,9 @@ This is a website for Izhva-Komi Language Documentation project which has been f
 
 The template for this website is from [sylvain.durand.tf](http://sylvain.durand.tf), built with *Jekyll*.
 
-The outline for the posts:
+Within our three year long project there will be need to figure out all sorts of technical solutions to work with data. Many of these experiences are certainly worth sharing with others.
+
+This is the outline for the posts for which there is already something to write about:
 
 - Project description
 - Fieldwork experiences
@@ -15,6 +17,8 @@ The outline for the posts:
 - Searching from the ELAN files
 - Restructuring ELAN files with XSLT
 - Reading ELAN files into R
+- Making a database connection from FileMaker Pro into R
+- Exporting FileMaker Pro database as IMDI/CMDI XML, as learned from [Joshua Wilbur](http://www.skandinavistik.uni-freiburg.de/institut/mitarbeiter/wilbur)
 - Doing sociolinguistic research with documentary linguistics data
 - Exporting from ELAN to LaTeX
 - Synchronising audio and video with PluralEyes
