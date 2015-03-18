@@ -12,7 +12,7 @@ This is the outline for the posts for which there is already something to write 
 - Project description
 - Fieldwork experiences
 - Regular expressions for Finno-Ugrists
-- Text transliteration with Perl
+- Text transliteration with Perl or R
 - Converting text files into ELAN files
 - Searching from the ELAN files
 - Restructuring ELAN files with XSLT
