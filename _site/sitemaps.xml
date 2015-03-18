@@ -2,6 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/</loc>
+      
+      
+        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/" />
+      
+        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/transliteration/" />
+      
+      <lastmod>2015-03-18T00:00:00+01:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+  
+    <url>
+      <loc>http://izvakomi.github.io/transliteration/</loc>
+      
+      
+        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/" />
+      
+        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/transliteration/" />
+      
+      <lastmod>2015-03-18T00:00:00+01:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+  
+    <url>
       <loc>http://izvakomi.github.io/polevo%CC%88j_udzh/</loc>
       
       
@@ -31,42 +55,6 @@
       
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" />
       
-        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/" />
-      
-        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/transliteration/" />
-      
-        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/project/" />
-      
-      <lastmod>2014-10-31T00:00:00+01:00</lastmod>
-      <changefreq>weekly</changefreq>
-    </url>
-  
-    <url>
-      <loc>http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/</loc>
-      
-      
-        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" />
-      
-        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/" />
-      
-        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/transliteration/" />
-      
-        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/project/" />
-      
-      <lastmod>2014-10-31T00:00:00+01:00</lastmod>
-      <changefreq>weekly</changefreq>
-    </url>
-  
-    <url>
-      <loc>http://izvakomi.github.io/transliteration/</loc>
-      
-      
-        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" />
-      
-        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/" />
-      
-        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/transliteration/" />
-      
         <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/project/" />
       
       <lastmod>2014-10-31T00:00:00+01:00</lastmod>
@@ -78,10 +66,6 @@
       
       
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" />
-      
-        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/" />
-      
-        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/transliteration/" />
       
         <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/project/" />
       

@@ -1,7 +1,7 @@
 ---
 title: "Transliterations"
 author: "Niko Partanen"
-date: "31 Oct 2014"
+date: "18 Mar 2015"
 ---
 
 ## Inbetween transliteration systems
