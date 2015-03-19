@@ -2,8 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>http://izvakomi.github.io/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/</loc>
+      
+      
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/" />
+      
+        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/" />
+      
+        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/transliteration/" />
+      
+      <lastmod>2015-03-18T00:00:00+01:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+  
+    <url>
       <loc>http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/</loc>
       
+      
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/" />
       
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/" />
       
@@ -17,6 +33,8 @@
       <loc>http://izvakomi.github.io/transliteration/</loc>
       
       
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D0%B8%D1%82%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8/" />
+      
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B2%D1%83%D0%B4%D0%B6%D0%BE%CC%88%D0%B4%D0%BE%CC%88%D0%BC/" />
       
         <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/transliteration/" />
@@ -26,8 +44,24 @@
     </url>
   
     <url>
+      <loc>http://izvakomi.github.io/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B8%CC%86_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/</loc>
+      
+      
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B8%CC%86_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/" />
+      
+        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/polevo%CC%88j_udzh/" />
+      
+        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/fieldwork/" />
+      
+      <lastmod>2014-11-03T00:00:00+01:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+  
+    <url>
       <loc>http://izvakomi.github.io/polevo%CC%88j_udzh/</loc>
       
+      
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B8%CC%86_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/" />
       
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/polevo%CC%88j_udzh/" />
       
@@ -40,6 +74,8 @@
     <url>
       <loc>http://izvakomi.github.io/fieldwork/</loc>
       
+      
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%BF%D0%BE%D0%BB%D0%B5%D0%B2%D0%BE%D0%B8%CC%86_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/" />
       
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/polevo%CC%88j_udzh/" />
       
@@ -55,6 +91,22 @@
       
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" />
       
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" />
+      
+        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/project/" />
+      
+      <lastmod>2014-10-31T00:00:00+01:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+  
+    <url>
+      <loc>http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/</loc>
+      
+      
+        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" />
+      
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" />
+      
         <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/project/" />
       
       <lastmod>2014-10-31T00:00:00+01:00</lastmod>
@@ -67,6 +119,8 @@
       
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" />
       
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82/" />
+      
         <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/project/" />
       
       <lastmod>2014-10-31T00:00:00+01:00</lastmod>
@@ -74,8 +128,24 @@
     </url>
   
     <url>
+      <loc>http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5/</loc>
+      
+      
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5/" />
+      
+        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B8%CC%86%D1%8B%D0%BB%D1%8B%D1%81%D1%8C/" />
+      
+        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/about/" />
+      
+      <lastmod>2014-10-11T00:00:00+02:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+  
+    <url>
       <loc>http://izvakomi.github.io/%D0%B8%CC%86%D1%8B%D0%BB%D1%8B%D1%81%D1%8C/</loc>
       
+      
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5/" />
       
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B8%CC%86%D1%8B%D0%BB%D1%8B%D1%81%D1%8C/" />
       
@@ -89,6 +159,8 @@
       <loc>http://izvakomi.github.io/about/</loc>
       
       
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B5/" />
+      
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B8%CC%86%D1%8B%D0%BB%D1%8B%D1%81%D1%8C/" />
       
         <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/about/" />
@@ -98,12 +170,14 @@
     </url>
   
     <url>
-      <loc>http://izvakomi.github.io/404.html</loc>
+      <loc>http://izvakomi.github.io/404/</loc>
       
       
-        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/404.html" />
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/404/" />
       
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/404/" />
+      
+        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/404.html" />
       
       <lastmod>2014-09-13T00:00:00+02:00</lastmod>
       <changefreq>weekly</changefreq>
@@ -113,19 +187,51 @@
       <loc>http://izvakomi.github.io/404/</loc>
       
       
-        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/404.html" />
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/404/" />
       
         <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/404/" />
+      
+        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/404.html" />
       
       <lastmod>2014-09-13T00:00:00+02:00</lastmod>
       <changefreq>weekly</changefreq>
     </url>
   
     <url>
-      <loc>http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/</loc>
+      <loc>http://izvakomi.github.io/404.html</loc>
       
       
-        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/" />
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/404/" />
+      
+        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/404/" />
+      
+        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/404.html" />
+      
+      <lastmod>2014-09-13T00:00:00+02:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+  
+    <url>
+      <loc>http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3-%D1%80%D1%83%D1%81/</loc>
+      
+      
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3-%D1%80%D1%83%D1%81/" />
+      
+        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3-%D0%BA%D0%BE%D0%BC%D0%B8/" />
+      
+        <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/" />
+      
+      <lastmod>2014-08-31T00:00:00+02:00</lastmod>
+      <changefreq>weekly</changefreq>
+    </url>
+  
+    <url>
+      <loc>http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3-%D0%BA%D0%BE%D0%BC%D0%B8/</loc>
+      
+      
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3-%D1%80%D1%83%D1%81/" />
+      
+        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3-%D0%BA%D0%BE%D0%BC%D0%B8/" />
       
         <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/" />
       
@@ -137,7 +243,9 @@
       <loc>http://izvakomi.github.io/</loc>
       
       
-        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3/" />
+        <xhtml:link rel="alternate" hreflang="русский" href="http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3-%D1%80%D1%83%D1%81/" />
+      
+        <xhtml:link rel="alternate" hreflang="коми" href="http://izvakomi.github.io/%D0%B1%D0%BB%D0%BE%D0%B3-%D0%BA%D0%BE%D0%BC%D0%B8/" />
       
         <xhtml:link rel="alternate" hreflang="english" href="http://izvakomi.github.io/" />
       

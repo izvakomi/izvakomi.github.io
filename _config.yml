@@ -18,27 +18,33 @@ defaults:
       path: _posts/komi
     values:
       lang: коми
+  -
+    scope:
+      path: _posts/russian
+    values:
+      lang: русский
 nav:
   english:
     journal:
       title: "blog"
       url:   "/index.html"
-    fieldwork:
-      title: "fieldwork"
-      url:   "/fieldwork/"
     about:
-      title: "project"
+      title: "project info"
       url:   "/about/"
   коми:
     journal:
       title: "блог"
-      url:   "/блог/"
-    fieldwork:
-      title: "полевӧй удж"
-      url:   "/polevöj_udzh/"
+      url:   "/блог-коми/"
     about:
-      title: "проект"
+      title: "проект йылысь"
       url:   "/йылысь/"
+  русский:
+    journal:
+      title: "блог"
+      url:   "/блог-рус/"
+    about:
+      title: "о проекта"
+      url:   "/проект/"
 t:
   english:
     created: "Published on the"
@@ -48,3 +54,7 @@ t:
     created: "Лэдзӧма"
     author: ", дасьтысь"
     description: "Туялӧм проектлӧн сайтыс…"
+  русский:
+    created: "Автор"
+    author: ", "
+    description: "сайт науцного проекта"

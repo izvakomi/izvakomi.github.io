@@ -1,20 +1,31 @@
 {% if include.mode != 'month' %}
   {% assign d = include.date | date: "%-d" %}
   {% if page.lang == 'коми' %}
-    {{ d }}{% if d == "1" %}<sup>er</sup>{% endif %} 
-  {% else %}
-    {{ d }}<sup>{% case d %}
+      {{ d }}<sup>{% case d %}
+      {% when '1' or '2' %}test
+      {% else %}-ӧд
+      {% endcase %}</sup>
+  {% endif %}
+  {% if page.lang == 'русский' %}
+      {{ d }}<sup>{% case d %}
+      {% when '1' or '2' %}test
+      {% else %}-ого
+      {% endcase %}</sup>
+  {% endif %}
+  {% if page.lang == 'english' %}
+      {{ d }}<sup>{% case d %}
       {% when '1' or '21' or '31' %}st
       {% when '2' or '22' %}nd
       {% when '3' or '23' %}rd
       {% else %}th
-    {% endcase %}</sup> of 
+    {% endcase %}</sup> of
   {% endif %}
 {% endif %}
 
-{% if page.lang == 'коми' %}
- {% assign m = include.date | date: "%-m" %}
- {% case m %}	
+{% if page.lang != 'english' %}
+  {% assign m = include.date | date: "%-m" %}
+  {% if page.lang == 'коми' %}
+   {% case m %}	
     {% when '1' %}тӧвшӧр тӧлысь
     {% when '2' %}урасьӧм тӧлысь
     {% when '3' %}рака тӧлысь
@@ -27,8 +38,26 @@
     {% when '10' %}йирым тӧлысь
     {% when '11' %}вӧльгым тӧлысь
     {% when '12' %}ӧшым тӧлысь
-  {% endcase %} 
+  {% endcase %}
+{% endif %}
+{% if page.lang == 'русский' %}
+ {% assign m = include.date | date: "%-m" %}
+ {% case m %}	
+    {% when '1' %}январь
+    {% when '2' %}февраль
+    {% when '3' %}март
+    {% when '4' %}апрель
+    {% when '5' %}май
+    {% when '6' %}июнь
+    {% when '7' %}июль
+    {% when '8' %}август
+    {% when '9' %}сентябрь
+    {% when '10' %}октябрь
+    {% when '11' %}ноябрь
+    {% when '12' %}декабрь
+  {% endcase %}
+{% endif %}
 {% else %}
   {{ include.date | date: "%B"}}
+  {{ include.date | date: "%Y"}}
 {% endif %}
-{{ include.date | date: "%Y"}}
