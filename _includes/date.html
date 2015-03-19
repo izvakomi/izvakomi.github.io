@@ -39,6 +39,7 @@
     {% when '11' %}вӧльгым тӧлысь
     {% when '12' %}ӧшым тӧлысь
   {% endcase %}
+ {{ include.date | date: "%Y"}}
 {% endif %}
 {% if page.lang == 'русский' %}
  {% assign m = include.date | date: "%-m" %}
@@ -56,6 +57,7 @@
     {% when '11' %}ноябрь
     {% when '12' %}декабрь
   {% endcase %}
+ {{ include.date | date: "%Y"}}
 {% endif %}
 {% else %}
   {{ include.date | date: "%B"}}
