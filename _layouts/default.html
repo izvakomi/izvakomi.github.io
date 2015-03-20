@@ -7,7 +7,7 @@ layout: typo
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=0.9">
   <meta name="description" content="{% if page.type == 'pages' %}{{ site.t[page.lang].description }}{% else %}{{ page.excerpt | strip_html | replace: "[[", " ("  | replace: "]]", ")" }}{% endif %}">
-  <title>{{page.title | strip_html}}izvakomi</title>
+  <title>{{page.title | strip_html}} izvakomi</title>
   <link rel="icon" href="/medias/design/favicon.ico" />
   {% assign posts=site.posts | where:"date", page.date %}
   {% for post in posts %}
