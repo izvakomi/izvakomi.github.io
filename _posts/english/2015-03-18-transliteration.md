@@ -2,13 +2,13 @@
 title: "Transliterations"
 author: "Niko Partanen"
 date: "18 Mar 2015"
-description: In many ways it is rather irrelevant which transcription system we use. Real question is how do we understand the phonological system. However, the different decisions of different researchers very often turn to our headaches as we recover and work on with the heritage data. Using different scripts can help enormously both in checking consistency and in converting from transliteration system to another.
+description: In many ways it is rather irrelevant which transcription system we use. Real question is how do we understand the phonological system. However, the different decisions of different researchers very often turn to our headaches as we recover and work on with the heritage data. It is never trivial to transliterate, but using different scripts can help enormously both in checking consistency and in converting from transliteration system to another.
 tags: Shiny
 ---
 
 ## Inbetween transliteration systems
 
-It is a continuous problem while working with language data that different transcriptions are done in very different transcription systems. The most common ones are Finno-Ugric transcription and different Cyrillic transcription systems. In many ways also Finno-Ugric transcription consists from many different subsystems, as different authors have used it in somewhat idiosynchronic manner. However, the majority of the systems used are in essence phonemic, thereby not marking really anything more than Komi orthography does.
+It is a continuous problem while working with language data that different transcriptions are done in very different transcription systems.[[Finnish readers should be reminded that in English **transliterating** refers to conversion between different writing systems, whereas **transcribing** refers to the act of creating textual representation of a spoken source. Finnish term **litterointi** is often used ambivalently]] The most common ones are Finno-Ugric transcription and different Cyrillic transcription systems. In many ways also Finno-Ugric transcription consists from many different subsystems, as different authors have used it in somewhat idiosynchronic manner. However, the majority of the systems used are in essence phonemic, thereby not marking really anything more than Komi orthography does.
 
 As an example Hungarian researcher Erik Vászolyi often transcribed Komi phoneme that is usually represented with orthographical <ӧ> with <ø> in his own transcriptions. It marks exactly the same phoneme basically in the same environment, which in the end makes it quite irrelevant which grapheme is used.
 

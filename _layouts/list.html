@@ -21,8 +21,20 @@ layout: default
           {{ post.title | replace: '<br/>', ''}}
         </a>
         <p>
+        {% if post.author == "Niko Partanen" %}
+          <img src="/medias/data/author_niko.jpeg" height="103" width="103" align="right" style="margin: 10px 0px 0px 10px">
+        {% endif %}
+        {% if post.author == "Michael Rießler" %}
+          <img src="/medias/data/author_michael.jpeg" height="103" width="103" align="right" style="margin: 10px 0px 0px 10px">
+        {% endif %}
           {{ post.description }}
         </p>
+        {% if post.author %}
+        <p><i>
+          -{{ post.author }}
+        </i></p>
+        {% endif %}
+        <br/>
       </li>
      {% endfor %}
     </ul>

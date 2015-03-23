@@ -28,6 +28,12 @@ nav:
     journal:
       title: "blog"
       url:   "/index.html"
+    tools:
+      title: "tools"
+      url:   "/tools/"
+    tags:
+      title: "tags"
+      url:   "/tags/"
     about:
       title: "project info"
       url:   "/about/"
@@ -35,15 +41,27 @@ nav:
     journal:
       title: "блог"
       url:   "/блог-коми/"
+    tools:
+      title: "кӧлый"
+      url:   "/кӧлый/"
+    tags:
+      title: "тагъяс"
+      url:   "/категорияяс/"
     about:
-      title: "проект йылысь"
+      title: "проектысь"
       url:   "/йылысь/"
   русский:
     journal:
       title: "блог"
       url:   "/блог-рус/"
+    tools:
+      title: "орудие"
+      url:   "/инструменты/"
+    tags:
+      title: "тагы"
+      url:   "/категорий/"
     about:
-      title: "о проекта"
+      title: "проект"
       url:   "/проект/"
 t:
   english:
