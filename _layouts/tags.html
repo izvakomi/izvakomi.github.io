@@ -1,0 +1,62 @@
+---
+layout: typo
+---
+<!doctype html>
+<html lang="{{ page.lang }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,user-scalable=no,initial-scale=0.9">
+  <meta name="description" content="{% if page.type == 'pages' %}{{ site.t[page.lang].description }}{% else %}{{ page.excerpt | strip_html | replace: "[[", " ("  | replace: "]]", ")" }}{% endif %}">
+  <title>{{page.title | strip_html}} izvakomi</title>
+  <link rel="icon" href="/medias/design/favicon.ico" />
+  {% assign posts=site.posts | where:"date", page.date %}
+  {% for post in posts %}
+    {% if post.lang != page.lang %}
+      <link rel="alternate" hreflang="{{post.lang}}" href="{{post.url}}" />
+    {% endif %}
+  {% endfor %}
+  <link rel="alternate" href="/rss.xml" type="application/rss+xml" />
+  <style>{% capture styles %}{% include style.sass %}{% endcapture %}{{ styles | sassify }}</style>
+  <script>{% include script.js %}</script>
+</head>
+
+<body>
+
+<div class="nav">
+  <ul>
+    {% for menu in site.nav[page.lang] %}
+      <li><a href="{{ menu[1].url }}">{{ menu[1].title }}</a></li>
+    {% endfor %}
+    <li class="lang">
+      {% assign posts=site.posts | where:"date", page.date | sort: 'path' %}
+      {% for post in posts %}
+        <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a>
+      {% endfor %}
+    </li>
+  </ul>
+</div>
+
+<h1>{{ page.title }}</h1>
+
+<h2>Categories</h2>
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+ <center><span class="site-tag">
+    <a align="center" href="/tag/{{ tag | first | slugify }}/"
+        style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+            {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+    </a>
+</span>
+</center>
+{% endfor %}
+
+<div class="foot">
+  {{ site.t[page.lang].created }} <span>{% include date.html date=page.date %}</span>
+  {{ site.t[page.lang].author }}  <a href="https://github.com/izvakomi/">Niko Partanen</a>.
+</div>
+
+<style>
+  h1{ background-image:url('data:image/jpg;base64,{%include headers/{{ page.date | date:'%Y-%m-%d' }} %}');}
+</style>
+</body>
+</html>
