@@ -1,6 +1,9 @@
 ---
 title: Fieldwork
-type: pages
+author: "Niko Partanen"
+date: "24 Mar 2015"
+description: We conducted our first fieldwork in March 2014. Now, in April 2015, we are about to leave for the second trip. Let's reflect a bit what we did last time, as it is in many ways connected to the work we will carry out this year as well.
+tags: 
 ---
 
 ## Fieldwork

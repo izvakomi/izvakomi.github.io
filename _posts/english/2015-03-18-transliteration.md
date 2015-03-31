@@ -3,7 +3,7 @@ title: "Transliterations"
 author: "Niko Partanen"
 date: "18 Mar 2015"
 description: In many ways it is rather irrelevant which transcription system we use. Real question is how do we understand the phonological system. However, the different decisions of different researchers very often turn to our headaches as we recover and work on with the heritage data. It is never trivial to transliterate, but using different scripts can help enormously both in checking consistency and in converting from transliteration system to another.
-tags: Shiny
+tags: 
 ---
 
 ## Inbetween transliteration systems

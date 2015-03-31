@@ -31,9 +31,6 @@ nav:
     tools:
       title: "tools"
       url:   "/tools/"
-    tags:
-      title: "tags"
-      url:   "/tags/"
     about:
       title: "project info"
       url:   "/about/"
@@ -44,9 +41,6 @@ nav:
     tools:
       title: "кӧлый"
       url:   "/кӧлый/"
-    tags:
-      title: "тагъяс"
-      url:   "/категорияяс/"
     about:
       title: "проектысь"
       url:   "/йылысь/"
@@ -57,9 +51,6 @@ nav:
     tools:
       title: "орудие"
       url:   "/инструменты/"
-    tags:
-      title: "тагы"
-      url:   "/категорий/"
     about:
       title: "проект"
       url:   "/проект/"
@@ -73,6 +64,6 @@ t:
     author: ", дасьтысь"
     description: "Туялӧм проектлӧн сайтыс…"
   русский:
-    created: "Автор"
-    author: ", "
-    description: "сайт науцного проекта"
+    created: "Опубликовано"
+    author: ", автор"
+    description: "Сайт науцного проекта"
