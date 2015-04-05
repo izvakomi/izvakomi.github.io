@@ -3,7 +3,7 @@ izvakomi.github.io
 
 This is a website for Izhva-Komi Language Documentation project which has been funded by Kone Foundation.
 
-The template for this website is from [sylvain.durand.tf](http://sylvain.durand.tf), built with *Jekyll*.
+The template for this website is from [Sylvain Durand](http://sylvaindurand.org), built with *Jekyll*.
 
 Within our three year long project there will be need to figure out all sorts of technical solutions to work with data. Many of these experiences are certainly worth sharing with others.
 
